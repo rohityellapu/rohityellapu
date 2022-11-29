@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohith Yellapu
+- 👋 Hi, I’m Rohit Yellapu
 - 👀 I’m interested in Developing Web and Mobile Applications
 - 🌱 I’m currently learning React and Nodejs(JavaScript)
 - 💞️ I’m looking to collaborate on Web Projects
