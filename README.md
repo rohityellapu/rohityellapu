@@ -55,7 +55,11 @@
 </p>
 
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityellapu&theme=radical&layout=compact" alt="rohityellapu" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityellapu&theme=radicalt" alt="rohityellapu" /></p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=rohityellapu&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 <h1 align="center">Connect with me on</h1>
 <p align="center">
