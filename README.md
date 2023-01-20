@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/>, I'm Rohit Yellapu</h1>
-<h3 align="center">A Web developer. I develop and design real-world web and mobile applications.</h3>
+<h3 align="center">I'm a self-taught Full Stack Web Developer. I develop and design real-world web and mobile applications with passion of coding out of the box. I have fine experience in React, Nodejs, Flask, MongoDB, PostgreSQL. I love to solve and learn problems on Data Structures and Algorithms.</h3>
 
 
 - 🔭 I’m currently working on **InstaClone, Finance**
