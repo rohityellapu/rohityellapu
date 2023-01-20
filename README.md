@@ -48,14 +48,14 @@
 <h1 align="center">Stats</h1>
 
 <p align="center" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohityellapu&theme=radical&" alt="rohityellapu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohityellapu&theme=radical" alt="rohityellapu" />
   
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohityellapu&theme=radical" alt="rohityellapu" />
 </p>
 
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityellapu&theme=radicalt" alt="rohityellapu" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityellapu&theme=radical" alt="rohityellapu" /></p>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=rohityellapu&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
