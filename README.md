@@ -5,9 +5,8 @@
 - 🔭 I’m currently working on **InstaClone, Finance**
 - 🌱 I’m currently learning **React JS, Express JS, Node JS**
 - 👯 I’m looking to collaborate on **10x Academy, CS50**
-- 🤝 I’m looking for help with **MySQL and Django**
 - 👨‍💻 All of my projects are available at [https://rohityellapu-portifolio.vercel.app/](https://rohityellapu-portifolio.vercel.app/)
-- 💬 Ask me about **Web Technologies, DSA, JavaScript, Nodejs, React**
+- 💬 Ask me about **Web Technologies, DSA, JavaScript, Nodejs, React, SQL, MongoDB**
 - 📫 How to reach me **rohithyellapu24@gmail.com**
 - 📄 Know about my experiences [Portfolio](https://rohityellapu-portifolio.vercel.app/)
 
@@ -51,11 +50,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohityellapu&theme=radical" alt="rohityellapu" />
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohityellapu&theme=radical" alt="rohityellapu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohityellapu&theme=radical&show_icons=true" alt="rohityellapu" />
 </p>
 
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityellapu&theme=radical" alt="rohityellapu" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohityellapu&theme=radical&layout=compact" alt="rohityellapu" /></p>
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=rohityellapu&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
