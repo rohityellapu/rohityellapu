@@ -2,9 +2,8 @@
 <h3 align="center">I'm a self-taught Full Stack Web Developer. I develop and design real-world web and mobile applications with passion of coding out of the box. I have fine experience in React, Nodejs, Flask, MongoDB, PostgreSQL. I love to solve and learn problems on Data Structures and Algorithms.</h3>
 
 
-- 🔭 I’m currently working on **InstaClone, Finance**
-- 🌱 I’m currently learning **React JS, Express JS, Node JS**
-- 👯 I’m looking to collaborate on **10x Academy, CS50**
+- 🔭 I’m currently working as Full Stack Developer at  **OpsVeda Asia Pvt Ltd**
+- 👯 I’m looking to collaborate on **Data Structure and Algorithms**
 - 👨‍💻 All of my projects are available at [https://rohityellapu-portifolio.vercel.app/](https://rohityellapu-portifolio.vercel.app/)
 - 💬 Ask me about **Web Technologies, DSA, JavaScript, Nodejs, React, SQL, MongoDB**
 - 📫 How to reach me **rohithyellapu24@gmail.com**
