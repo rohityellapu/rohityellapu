@@ -1,15 +1,168 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/>, I'm Rohit Yellapu</h1>
-<h3 align="center">I'm a self-taught Full Stack Web Developer. I develop and design real-world web and mobile applications with passion of coding out of the box. I have fine experience in React, Nodejs, Flask, MongoDB, PostgreSQL. I love to solve and learn problems on Data Structures and Algorithms.</h3>
+<h1 align="center">
+  Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/>, I'm Rohit Yellapu
+</h1>
 
+<h3 align="center">
+  Software Engineer | Full-Stack Development | AI Engineering
+</h3>
 
-- 🔭 I’m currently working as Full Stack Developer at  **OpsVeda Asia Pvt Ltd**
-- 👯 I’m looking to collaborate on **Data Structure and Algorithms**
-- 👨‍💻 All of my projects are available at [https://rohityellapu-portifolio.vercel.app/](https://rohityellapu-portifolio.vercel.app/)
-- 💬 Ask me about **Web Technologies, DSA, JavaScript, Nodejs, React, SQL, MongoDB**
-- 📫 How to reach me **rohithyellapu24@gmail.com**
-- 📄 Know about my experiences [Portfolio](https://rohityellapu-portifolio.vercel.app/)
+<p align="center">
+  I build full-stack and AI-driven applications and enjoy turning ideas and ambiguous problems into working software.
+  My experience spans TypeScript, JavaScript, Python, React, Node.js, REST APIs, databases, Docker and CI/CD.
+</p>
 
+<p align="center">
+  Currently pursuing an MSc in Information Security at Royal Holloway, University of London,
+  with a growing focus on AI systems, developer tooling and secure software engineering.
+</p>
 
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently exploring **AI-assisted software development, AI applications and developer tooling**
+- 🤖 Interested in **AI coding agents, LLM workflows, agent context and how AI can improve software development**
+- 🧑‍💻 Experienced in building **full-stack applications using React, TypeScript, Node.js and Python**
+- 🔌 Experienced with **REST APIs and third-party service integrations**
+- 🐳 Worked with **Docker, Kubernetes and CI/CD pipelines**
+- 🗄️ Experience working with **PostgreSQL, MongoDB, MySQL, Redis and SQLite**
+- 🔐 Currently completing an **MSc in Information Security at Royal Holloway, University of London**
+- 📚 Currently researching **AI-driven Intrusion Detection Systems and Data Loss Prevention**
+- 🚀 I enjoy building projects from an idea through implementation, testing and deployment
+- 💬 Ask me about **React, TypeScript, JavaScript, Node.js, Python, REST APIs, SQL and full-stack development**
+- 👨‍💻 My projects are available on my **GitHub**
+- 🌐 Portfolio: [rohityellapu-portifolio.vercel.app](https://rohityellapu-portifolio.vercel.app/)
+- 📫 Reach me at **rohityellapu@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Driven Application
+
+An AI-driven application with a conversational interface that allows users to interact with their data.
+
+**Technologies:**
+`React` `TypeScript` `Node.js` `REST APIs`
+
+**What I worked on:**
+
+- Designed frontend and backend application architecture
+- Built the conversational user interface
+- Integrated backend services and APIs
+- Worked on third-party service integrations
+- Improved application development and deployment workflows
+- Reduced manual data-query time by approximately **50%**
+
+---
+
+### 📈 Rohit's Finance — Stock Trading Application
+
+A paper-trading application built with Python and Flask for simulating US stock trading and tracking portfolio performance.
+
+**Technologies:**
+`Python` `Flask`
+
+**What I worked on:**
+
+- Built the application from the ground up
+- Implemented simulated trading functionality
+- Built portfolio performance tracking
+- Simulated more than **1,000 trades**
+- Worked across application design, implementation and testing
+
+---
+
+### 📸 Instagram Clone
+
+A full-stack social-content application built to explore frontend, backend and application data flows.
+
+**Technologies:**
+`React` `Node.js`
+
+**What I worked on:**
+
+- Built the frontend using React
+- Developed backend functionality using Node.js
+- Implemented infinite scrolling
+- Optimised content loading
+- Achieved page-load performance of **under 2 seconds**
+
+---
+
+## 🛠️ Technologies I Work With
+
+### Languages
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</p>
+
+### Frontend
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</p>
+
+### Backend & APIs
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+</p>
+
+`REST APIs` `API Integration` `Backend Services`
+
+### Databases
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+</p>
+
+### DevOps & Development
+
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+</p>
+
+`Git` `GitHub` `Docker` `Kubernetes` `Jenkins` `CI/CD`
+
+---
+
+## 🧠 Areas I'm Interested In
+
+```text
+AI Engineering
+AI Coding Agents
+LLM Applications
+Developer Tools
+Agent Workflows
+MCP
+Backend Systems
+API Design
+Full-Stack Development
+System Design
+Secure Software Engineering
+Developer Productivity
+```
+<!--
 <h2>Technologies I use currently and code with</h2>
 <p color="" style="">
   <ul>
@@ -41,7 +194,7 @@
     <li>➡️GIT <img height="20" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></li>
      <li>➡️GitHub <img height="20" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></li>
 </ul>
-
+-->
 </p>
 <h1 align="center">Stats</h1>
 
